@@ -4,7 +4,8 @@ Theri dataset is unique in many ways. The town was quarantined, and most (cca 80
 
 
 I adjusted the data to improve readability of XLSX (colorize/underline etc.).
-Matlab code to generate input files for Gephi (graph and network visualisation).
+Added Matlab code to generate input files (edge list from adjacency matrix) for use with Gephi (graph and network visualisation).
+Generated graph vizualisations in Gephi.
 Work in progress.
 
 Original XLSX data from: https://github.com/ncov-ic/SEIR_Covid_Vo/tree/master/data
