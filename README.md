@@ -1,5 +1,5 @@
 
-# Graph plots of COVID-19 cases in Vo'
+# Graph plots of the COVID-19 cases in Vo'
 
 I analyzed the published data of the **COVID-19** outbreak in the Italian town of **Vo’**, near Venice, one of the hotspots of the epidemic.
 
