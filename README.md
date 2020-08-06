@@ -3,9 +3,9 @@
 
 I analyzed the published data of the COVID-19 outbreak in the Italian town of Vo’, near Venice, one of the hotspots of the epidemic.
 
-Constructed contact networks of COVID positive patients and of their social vicinities, using R code (https://www.r-project.org/).\
-Then, I have displayed the graphs using the network visualization software Gephi (https://gephi.org).\
-Wrote a presentation with graph slides.\
+Constructed contact networks of COVID positive patients and of their social vicinities, using **R** code (https://www.r-project.org/).<br/>
+Then, I have displayed the graphs using the network visualization software **Gephi** (https://gephi.org).<br/>
+Wrote a presentation with graph slides.<br/>
 
 Standard descriptive statistics, as used in clinical medicine, often assumes a homogeneous “melting pot” of datapoints, corresponding to a well-mixed system of chemistry. On the other hand, Graph visualizations of patients networks and their contacts create an immediate an intuitive sense of the structure the disease exists in. This kind of insight could prove valuable to epidemiologists, clinicians and the patients themselves.
 
