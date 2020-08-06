@@ -1,4 +1,6 @@
 
+# Graph plots of COVID-19 cases in Vo'
+
 I analyzed the published data of the COVID-19 outbreak in the Italian town of Vo’, near Venice, one of the hotspots of the epidemic.
 
 Constructed contact networks of COVID positive patients and of their social vicinities, using R code (https://www.r-project.org/).\ 
@@ -8,10 +10,10 @@ Wrote a presentation with graph slides.\
 Standard descriptive statistics, as used in clinical medicine, often assumes a homogeneous “melting pot” of datapoints, corresponding to a well-mixed system of chemistry. On the other hand, Graph visualizations of patients networks and their contacts create an immediate an intuitive sense of the structure the disease exists in. This kind of insight could prove valuable to epidemiologists, clinicians and the patients themselves.
 
 Directories of the repository:\
-\data – contains tabular R dataframe, derived from the original dataset\
-\src – the R code used to extract the patients graph from the data\
-\graph – the extracted graph in two formats, .GRAPHML and .GEPHI. The .GEPHI file stores node colors and sizes, if opened in Gephi. GRAPHML is more portable.\
-\images – the graph images used in the presentation\
+**\data** – contains tabular R dataframe, derived from the original dataset\
+**\src** – the R code used to extract the patients graph from the data\
+**\graph** – the extracted graph in two formats, .GRAPHML and .GEPHI. The .GEPHI file stores node colors and sizes, if opened in Gephi. GRAPHML is more portable.\
+**\images** – the graph images used in the presentation\
 
 I used the data provided at:\
 https://github.com/ncov-ic/SEIR_Covid_Vo\
