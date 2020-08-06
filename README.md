@@ -14,6 +14,7 @@ Directories of the repository:\
 **\src** – the R code used to extract the patients graph from the data\
 **\graph** – the extracted graph in two formats, .GRAPHML and .GEPHI. The .GEPHI file stores node colors and sizes, if opened in Gephi. GRAPHML is more portable.\
 **\images** – the graph images used in the presentation
+**\presentation** - the presentation in .PDF and PowerPoint .PPTX, .PPT formats.
 
 I used the data provided at:\
 https://github.com/ncov-ic/SEIR_Covid_Vo\
